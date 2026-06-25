@@ -93,3 +93,6 @@ Eliminates traditional "Submit" forms; changing a slider updates the backend mod
 <a href="https://heart-disease-prediction-app-9nuhun3s2w2ngaqnecnmhx.streamlit.app/" target="_blank">
 <img width="1600" height="779" alt="image" src="https://github.com/user-attachments/assets/a43b8e03-3d02-4a31-9664-c3752cf6bdbf" />
 </a>
+
+##  👩‍💻 Author 
+**Shobhit Tiwari**

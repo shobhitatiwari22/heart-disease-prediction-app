@@ -4,8 +4,8 @@ import pandas as pd
 import numpy as np
 
 # 1. Page Configuration
-st.set_page_config(page_title="Interactive Heart Predictor", page_icon="❤️", layout="centered")
-st.title("❤️ Live Heart Disease Risk Predictor")
+st.set_page_config(page_title="Interactive Heart Predictor", page_icon=":heart:", layout="centered")
+st.title("Live Heart Disease Risk Predictor  :heart:")
 st.write("Move any slider or change any value below. The risk calculation updates instantly!")
 
 # 2. Load the Saved Model

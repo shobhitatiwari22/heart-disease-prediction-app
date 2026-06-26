@@ -7,9 +7,9 @@ import numpy as np
 st.set_page_config(page_title="Interactive Heart Predictor", page_icon=":heart:", layout="centered")
 col1, col2= st.columns([0.15, 0.85])
 with col1:
-st.image("https://img.freepik.com/premium-photo/pretty-realistic-heart-illustration-with-isolated-background_742252-4140.jpg?w=2000", width=65)
+    st.image("https://img.freepik.com/premium-photo/pretty-realistic-heart-illustration-with-isolated-background_742252-4140.jpg?w=2000", width=65)
 with col2:
-st.title("Live Heart Disease Risk Predictor")
+    st.title("Live Heart Disease Risk Predictor")
 st.write("Move any slider or change any value below. The risk calculation updates instantly!")
 
 # 2. Load the Saved Model

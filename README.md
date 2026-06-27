@@ -1,4 +1,4 @@
-## <h2><img src="https://img.freepik.com/premium-photo/pretty-realistic-heart-illustration-with-isolated-background_742252-4140.jpg?w=2000", width="38", height="38" style="vertical-align: middle; margin-right: 10px;" alt="Heart"> Machine Learning-Driven Heart Disease Risk Predictor</h2>
+## <img src="https://img.freepik.com/premium-photo/pretty-realistic-heart-illustration-with-isolated-background_742252-4140.jpg?w=2000", width="38", height="38" align: "center"> Machine Learning-Driven Heart Disease Risk Predictor
 
 
 ## 📌 Project Overview

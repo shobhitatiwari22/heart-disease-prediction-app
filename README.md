@@ -1,4 +1,4 @@
-## ❤️ Machine Learning-Driven Heart Disease Risk Predictor
+## 🫀 Machine Learning-Driven Heart Disease Risk Predictor
 
 
 ## 📌 Project Overview

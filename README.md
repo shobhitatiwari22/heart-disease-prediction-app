@@ -1,4 +1,4 @@
-# <img width="45" height="45"  align="center" alt="paulos-ai-generated-8410788_1920" src="https://github.com/user-attachments/assets/089ace92-78e6-4c54-89a8-c3810bd7abac" />Machine Learning-Driven Heart Disease Risk Predictor
+# <img width="45" height="45"  align="center" alt="paulos-ai-generated-8410788_1920" src="https://github.com/user-attachments/assets/089ace92-78e6-4c54-89a8-c3810bd7abac" /> Machine Learning-Driven Heart Disease Risk Predictor
 
 ## 📌 Project Overview
 
